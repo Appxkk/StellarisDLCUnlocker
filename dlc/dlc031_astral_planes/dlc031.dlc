@@ -1,0 +1,13 @@
+name = "Astral Planes"
+localizable_name = "DLC_ASTRAL_PLANES"
+archive = "dlc/dlc031_astral_planes/dlc031.zip"
+steam_id = 2534090
+msgr_id = "9NVHPTQ6KD2B"
+rail_id = 0
+pops_id = ""
+affects_checksum = no
+affects_compatability = yes
+zip_checksum = "297517b3dbbb26bdf79b0c8f0667905c"
+third_party_content = no
+category = "expansion"
+thumbnail = "thumbnail.png"

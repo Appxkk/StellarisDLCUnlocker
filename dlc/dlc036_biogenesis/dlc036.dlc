@@ -1,0 +1,13 @@
+name = "BioGenesis"
+localizable_name = "DLC_BIOGENESIS"
+archive = "dlc/dlc036_biogenesis/dlc036.zip"
+steam_id = 3417840
+msgr_id = "9MX23V6V6M73"
+rail_id = 0
+pops_id = "dlc036_biogenesis"
+affects_checksum = no
+affects_compatability = yes
+zip_checksum = "05639fca7f2f9c293c6d936dbe7453b1"
+third_party_content = no
+category = "expansion"
+thumbnail = "thumbnail.png"

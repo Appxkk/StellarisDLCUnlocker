@@ -1,0 +1,13 @@
+name = "Stargazer Species Portrait"
+localizable_name = "DLC_STARGAZER"
+archive = "dlc/dlc039_stargazer/dlc039.zip"
+steam_id = 3417860
+msgr_id = "9NCLJ43HFFJK"
+rail_id = 0
+pops_id = ""
+affects_checksum = no
+affects_compatability = yes
+zip_checksum = "e4fc4d9ca38ad74da53b16c9a5fb2071"
+third_party_content = no
+category = "content_pack"
+thumbnail = "thumbnail.png"

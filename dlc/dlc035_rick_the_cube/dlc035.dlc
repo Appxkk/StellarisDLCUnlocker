@@ -1,0 +1,13 @@
+name = "Rick The Cube Species Portrait"
+localizable_name = "DLC_RICK_THE_CUBE"
+archive = "dlc/dlc035_rick_the_cube/dlc035.zip"
+steam_id = 2863180
+msgr_id = "9PLGPTVSWGJN"
+rail_id = 0
+pops_id = ""
+affects_checksum = no
+affects_compatability = yes
+zip_checksum = "0353c0ad9f94777974ca4b80898277fe"
+third_party_content = no
+category = "content_pack"
+thumbnail = "thumbnail.png"

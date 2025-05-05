@@ -1,0 +1,13 @@
+name = "Necroids Species Pack"
+localizable_name = "DLC_NECROIDS_SPECIES"
+archive = "dlc/dlc024_necroids/dlc024.zip"
+steam_id = 1341520
+msgr_id = "9P7LJCQ90FBR"
+rail_id = 0
+pops_id = "dlc024_necroids"
+affects_checksum = no
+affects_compatability = yes
+zip_checksum = "fed7dab0b1817a217bd1ac01504861c1"
+third_party_content = no
+category = "species_pack"
+thumbnail = "thumbnail.png"

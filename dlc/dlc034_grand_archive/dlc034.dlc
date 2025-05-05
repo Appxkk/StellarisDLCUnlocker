@@ -1,0 +1,13 @@
+name = "Grand Archive"
+localizable_name = "DLC_GRAND_ARCHIVE"
+archive = "dlc/dlc034_grand_archive/dlc034.zip"
+steam_id = 2863080
+rail_id = 0
+msgr_id = "9P7ZWH565K8R"
+pops_id = "dlc034_grand_archive"
+affects_checksum = no
+affects_compatability = yes
+zip_checksum = "1907d4cb47df6f8f3f6c8ea84cd317b8"
+third_party_content = no
+category = "story_pack"
+thumbnail = "thumbnail.png"

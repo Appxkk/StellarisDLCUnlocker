@@ -1,0 +1,13 @@
+name = "Galactic Paragons"
+localizable_name = "DLC_PARAGON"
+archive = "dlc/dlc030_paragon/dlc030.zip"
+steam_id = 2380030
+msgr_id = "9PF95G4X943K"
+rail_id = 0
+pops_id = ""
+affects_checksum = no
+affects_compatability = yes
+zip_checksum = "3f859c6e7605bab245dba2e4705aa97f"
+third_party_content = no
+category = "expansion"
+thumbnail = "thumbnail.png"

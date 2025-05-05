@@ -1,0 +1,13 @@
+name = "Toxoids Species Pack"
+localizable_name = "DLC_TOXOIDS_SPECIES"
+archive = "dlc/dlc028_toxoids/dlc028.zip"
+steam_id = 2115770
+msgr_id = "9NKWHD2Q0L56"
+rail_id = 0
+pops_id = ""
+affects_checksum = no
+affects_compatability = yes
+zip_checksum = "8e5ddedebeec713565b59ead0ac59de5"
+third_party_content = no
+category = "species_pack"
+thumbnail = "thumbnail.png"

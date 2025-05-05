@@ -1,0 +1,13 @@
+name = "The Machine Age"
+localizable_name = "DLC_MACHINEAGE_ASCENSION"
+archive = "dlc/dlc032_machine_age/dlc032.zip"
+steam_id = 2840100
+msgr_id = "9PH2FMSR6BJL"
+rail_id = 0
+pops_id = "dlc032_cybernetics"
+affects_checksum = no
+affects_compatability = yes
+zip_checksum = "6949c234c4aeca1f8c97772c5d92f646"
+third_party_content = no
+category = "expansion"
+thumbnail = "thumbnail.png"

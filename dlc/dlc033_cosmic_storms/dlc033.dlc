@@ -1,0 +1,13 @@
+name = "Cosmic Storms"
+localizable_name = "DLC_COSMIC_STORMS"
+archive = "dlc/dlc033_cosmic_storms/dlc033.zip"
+steam_id = 2863060
+rail_id = 0
+msgr_id = "9P2WCSB552W2"
+pops_id = "dlc033_cosmic_storms"
+affects_checksum = no
+affects_compatability = yes
+zip_checksum = "b9a64b4a67ff85d9f3ea95a2d4ba34f6"
+third_party_content = no
+category = "expansion"
+thumbnail = "thumbnail.png"
