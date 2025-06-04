@@ -62,6 +62,8 @@ def ask_user_about_update_cmd():
 # --- Копирование файлов в greenworks\lib ---
 def update_launcher_files():
     base_path = os.path.join(os.environ['LOCALAPPDATA'], r"Programs\Paradox Interactive\launcher")
+    
+    # Ищем версию вида launcher-v2.2024.05
     pattern = re.compile(r'^launcher-v2\.(\d{4})\.(\d{1,2})$')
 
     latest_folder = None
